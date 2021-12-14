@@ -59,6 +59,14 @@ body {
     justify-content: center;
 }
 
+.circle div {
+    width: 2.5vw;
+}
+
+span {
+    margin: 0 1%;
+}
+
 .buttons {
     display: flex;
     flex-direction: row;
@@ -120,6 +128,14 @@ button {
     .circle {
         width: 40vw;
         height: 40vw;
+    }
+
+    .circle div {
+        width: 7vw;
+    }
+
+    span {
+        margin-right: 4%;
     }
 
     button {
